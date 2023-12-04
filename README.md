@@ -1,8 +1,10 @@
-# 🖼️Show GUI on Windows from a Docker Container
+# 🖼️Show GUI on Windows from Docker Container
 
 ## Prerequisites
 
 - Install the *last* version of [VcXsrv](https://sourceforge.net/projects/vcxsrv/) and execute it
+
+## Let's Do It
 
 The only thing is simply add this line in Dockerfile:
 
