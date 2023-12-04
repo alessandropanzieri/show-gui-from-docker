@@ -6,7 +6,7 @@
 
 ## Let's Do It
 
-The only thing is simply add this line in Dockerfile:
+The only thing is simply add the following line into Dockerfile:
 
 ```Dockerfile
 ENV DISPLAY=host.docker.internal:0.0
